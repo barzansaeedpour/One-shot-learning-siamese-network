@@ -42,10 +42,10 @@ We need three type of data to train and test our siamese network:
 - Anchor images: images of our face
 - Positive images: also images of our face
 - Nagativa images: random images of other people's face 
-[d]([https://](http://vis-www.cs.umass.edu/lfw/lfw.tgz))
+[download](http://vis-www.cs.umass.edu/lfw/lfw.tgz)
 
 for the Anchor and Positiva images: you can use the python code in  ``` take_picures.py ``` file.
 
 You can also use the following link to dowload all in once: 
-[dataset-all]([https://](https://drive.google.com/drive/folders/1-4KAStGQgStFQD4IVU-dwf6GQXw-HS88?usp=sharing)) 
+[download](https://drive.google.com/drive/folders/1-4KAStGQgStFQD4IVU-dwf6GQXw-HS88?usp=sharing) 
 
