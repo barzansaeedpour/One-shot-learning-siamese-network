@@ -84,7 +84,7 @@ Siamese networks learn to **embed** images into a feature space where similarity
 ## Code (notebook)
 
 Open the notebook in colab:
-[colab](https://)
+<a href="https://colab.research.google.com/github/barzansaeedpour/One-shot-learning-siamese-network/blob/main/Facial_Verification_with_a_Siamese_Network_Final.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 ## Dataset
